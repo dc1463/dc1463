@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-#🔭 I’m currently working on three projects that include a machine learning project using stock market data, a work related autopopulating tech wiki, and a personal health and workout producing schedule. 
+##I’m currently working on three projects that include a machine learning project using stock market data, a work related autopopulating tech wiki, and a personal health and workout producing schedule. 
 - 🌱 I’m currently learning Python and tools to conduct these projects
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
